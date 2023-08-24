@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/enumerable_project/custom_enumerable_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ruby_testing_clone/ruby_testing" vcs="Git" />
   </component>
 </project>
